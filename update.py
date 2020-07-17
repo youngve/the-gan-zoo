@@ -75,4 +75,4 @@ if __name__ == '__main__':
     GANS = load_data()
     update_readme(GANS)
     update_figure(GANS)
-    update_github_stats(GANS)
+    update_github_stats
